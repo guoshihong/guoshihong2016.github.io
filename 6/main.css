@@ -1,0 +1,14 @@
+h1{
+	font-family: "微软雅黑";
+	font-weight: 500;
+}
+#a{
+    text-decoration: line-through;
+	color: red;
+	text-align: right;
+	letter-spacing: 2px;
+	line-height: 1.5;
+}
+.noindent{
+	text-indent: 0;
+}
